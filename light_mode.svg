@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="445" viewBox="0 0 1000 445" role="img" aria-labelledby="title desc">
+  <title id="title">SHARiFULx GitHub profile</title>
+  <desc id="desc">ASCII portrait of SHARiFUL iSLAM beside terminal-style public GitHub profile information.</desc>
+  <style>
+    .canvas { fill: #f6f8fa; }
+    .panel { fill: #ffffff; stroke: #d0d7de; }
+    .divider { stroke: #d8dee4; }
+    .portrait { fill: #0969da; font: 11.3px/1 ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace; }
+    .terminal { fill: #24292f; font: 12px/1 ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace; }
+    .prompt { fill: #1a7f37; font-weight: 700; }
+    .command { fill: #8250df; }
+    .key { fill: #0969da; }
+    .value { fill: #24292f; }
+    .muted { fill: #6e7781; }
+    .caption { fill: #57606a; font: 12px/1 ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace; letter-spacing: .08em; }
+    text, tspan { white-space: pre; }
+  </style>
+
+  <rect class="canvas" width="1000" height="445" rx="18"/>
+  <rect class="panel" x="8" y="8" width="984" height="429" rx="14"/>
+  <circle cx="30" cy="28" r="5" fill="#cf222e"/>
+  <circle cx="47" cy="28" r="5" fill="#bf8700"/>
+  <circle cx="64" cy="28" r="5" fill="#1a7f37"/>
+  <text class="caption" x="82" y="32">SHARiFULx / PROFILE</text>
+  <line class="divider" x1="392" y1="48" x2="392" y2="421"/>
+
+  <text class="portrait" x="20" y="56" xml:space="preserve" aria-label="ASCII portrait">
+    <tspan x="20" y="56">                     .%%%.</tspan>
+    <tspan x="20" y="68">                  .%%%%%%%%%...</tspan>
+    <tspan x="20" y="80">                 .%%%%%%%%%@@%%%%%.</tspan>
+    <tspan x="20" y="92">                .%%%%%%%%%%%@@@%#%%%.</tspan>
+    <tspan x="20" y="104">                %%%%%%%%%#%%%@@@%%%%%.</tspan>
+    <tspan x="20" y="116">               %%%%%%%%%%%%@@%@@@%%%%@.</tspan>
+    <tspan x="20" y="128">              @@%%%%%%%%%%%%#+#%%%#%@@%</tspan>
+    <tspan x="20" y="140">             .@@%%%%%%%%%#*=---*#%%%%@@.</tspan>
+    <tspan x="20" y="152">             @@%@%%##**+=-::::--+*#%@@@.</tspan>
+    <tspan x="20" y="164">            .@@@@@#+--:::::::::--=#%@@@.</tspan>
+    <tspan x="20" y="176">             @@%%#+==--::::::-==+++*%@@.</tspan>
+    <tspan x="20" y="188">             %%%#=****##*---*##****+#%#.</tspan>
+    <tspan x="20" y="200">             .+*#==+++*=+-:-=+++++==*+-.</tspan>
+    <tspan x="20" y="212">              -=*=--------:--------=+--</tspan>
+    <tspan x="20" y="224">              -=+=-:::::--::--::::-=*-=</tspan>
+    <tspan x="20" y="236">               .=*-:::::--::-=:::-=+#.</tspan>
+    <tspan x="20" y="248">                 #=--:---===+=----=+.</tspan>
+    <tspan x="20" y="260">                  *=--===+==+++=-=+*</tspan>
+    <tspan x="20" y="272">                   +=----=====--=+*</tspan>
+    <tspan x="20" y="284">                   +++=---=----=+*.</tspan>
+    <tspan x="20" y="296">                   =-+**+=---=+#*=</tspan>
+    <tspan x="20" y="308">                   ----=+****#*=-=</tspan>
+    <tspan x="20" y="320">                  .---------===--=+</tspan>
+    <tspan x="20" y="332">                 .*:-------==----:=%.</tspan>
+    <tspan x="20" y="344">              ..%#*..::-------::..+%%%.</tspan>
+    <tspan x="20" y="356">         ..%%%%%%##:....::--:.....+%%%%%%%%..</tspan>
+    <tspan x="20" y="368">   ..%%%%%###%%####=.....::::....:*#%%%%%%%%%%%%%%.</tspan>
+    <tspan x="20" y="380">%%%%%##############*..:::....:....#####%%%%%%%%%%%%%%%</tspan>
+    <tspan x="20" y="392">%###################:............:#####%%%%%%%%%%%%%%%</tspan>
+    <tspan x="20" y="404">####################-............-####%%%%%%%%%%%%%%%%</tspan>
+    <tspan x="20" y="416">####################+............=#######%%####%%%##%#</tspan>
+    <tspan x="20" y="428">####################*............*#######%%####%%%%###</tspan>
+  </text>
+
+  <text class="terminal" x="418" y="72" xml:space="preserve">
+    <tspan class="prompt" x="418" y="72">shariful@github</tspan><tspan class="muted">:</tspan><tspan class="key">~</tspan><tspan class="muted">$ </tspan><tspan class="command">whoami</tspan>
+
+    <tspan class="muted" x="418" y="104">| </tspan><tspan class="key">name</tspan><tspan class="muted"> ............... </tspan><tspan class="value">SHARiFUL iSLAM</tspan>
+    <tspan class="muted" x="418" y="128">| </tspan><tspan class="key">username</tspan><tspan class="muted"> ........... </tspan><tspan class="value">SHARiFULx</tspan>
+    <tspan class="muted" x="418" y="152">| </tspan><tspan class="key">company</tspan><tspan class="muted"> ............ </tspan><tspan class="value">Shariful It</tspan>
+    <tspan class="muted" x="418" y="176">| </tspan><tspan class="key">location</tspan><tspan class="muted"> ........... </tspan><tspan class="value">Bogura</tspan>
+    <tspan class="muted" x="418" y="200">| </tspan><tspan class="key">website</tspan><tspan class="muted"> ............ </tspan><tspan class="value">https://shariful.me/</tspan>
+
+    <tspan class="prompt" x="418" y="240">shariful@github</tspan><tspan class="muted">:</tspan><tspan class="key">~</tspan><tspan class="muted">$ </tspan><tspan class="command">account --public</tspan>
+
+    <tspan class="muted" x="418" y="272">| </tspan><tspan class="key">created</tspan><tspan class="muted"> ........... </tspan><tspan class="value">2016-03-13</tspan>
+    <tspan class="muted" x="418" y="296">| </tspan><tspan class="key">account age</tspan><tspan class="muted"> ... </tspan><tspan class="value" id="account_age">10 years, 5 months, 10 days</tspan>
+    <tspan class="muted" x="418" y="320">| </tspan><tspan class="key">public repos</tspan><tspan class="muted"> ...... </tspan><tspan class="value" id="public_repos">2</tspan>
+    <tspan class="muted" x="418" y="344">| </tspan><tspan class="key">followers</tspan><tspan class="muted"> ......... </tspan><tspan class="value" id="followers">0</tspan>
+    <tspan class="muted" x="418" y="368">| </tspan><tspan class="key">following</tspan><tspan class="muted"> ......... </tspan><tspan class="value" id="following">1</tspan>
+
+    <tspan class="prompt" x="418" y="408">shariful@github</tspan><tspan class="muted">:</tspan><tspan class="key">~</tspan><tspan class="muted">$ </tspan><tspan class="value">_</tspan>
+  </text>
+</svg>
