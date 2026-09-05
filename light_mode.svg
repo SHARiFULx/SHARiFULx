@@ -72,7 +72,7 @@
     <tspan class="prompt" x="418" y="240">shariful@github</tspan><tspan class="muted">:</tspan><tspan class="key">~</tspan><tspan class="muted">$ </tspan><tspan class="command">account --public</tspan>
 
     <tspan class="muted" x="418" y="272">| </tspan><tspan class="key">created</tspan><tspan class="muted"> ........... </tspan><tspan class="value">2016-03-13</tspan>
-    <tspan class="muted" x="418" y="296">| </tspan><tspan class="key">account age</tspan><tspan class="muted"> ... </tspan><tspan class="value" id="account_age">10 years, 5 months, 22 days</tspan>
+    <tspan class="muted" x="418" y="296">| </tspan><tspan class="key">account age</tspan><tspan class="muted"> ... </tspan><tspan class="value" id="account_age">10 years, 5 months, 23 days</tspan>
     <tspan class="muted" x="418" y="320">| </tspan><tspan class="key">public repos</tspan><tspan class="muted"> ...... </tspan><tspan class="value" id="public_repos">3</tspan>
     <tspan class="muted" x="418" y="344">| </tspan><tspan class="key">followers</tspan><tspan class="muted"> ......... </tspan><tspan class="value" id="followers">0</tspan>
     <tspan class="muted" x="418" y="368">| </tspan><tspan class="key">following</tspan><tspan class="muted"> ......... </tspan><tspan class="value" id="following">1</tspan>
